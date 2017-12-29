@@ -10,7 +10,8 @@ Linux Mint下启动Anaconda: $anaconda-navigator
 git add -A
 git commit -a -m 'update information'
 
-
+push免输入密码
+git config --global credential.helper store
 
 
 Progress:
