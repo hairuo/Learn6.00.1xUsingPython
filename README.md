@@ -19,4 +19,5 @@ git config --global credential.helper store
 
 Progress:
 - 2017-12-23 Sunday@Video: Operators and Branching
+- next?
 
