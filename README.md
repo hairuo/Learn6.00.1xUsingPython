@@ -11,10 +11,7 @@ git add -A
 git commit -a -m 'update information'
 
 push免输入密码:
-vim .git-credentials
-https://{username}:{password}@github.com
-
-git config --global credential.helper store
+[How to avoid being asked passphrase each time I push to Bitbucket](https://unix.stackexchange.com/questions/12195/how-to-avoid-being-asked-passphrase-each-time-i-push-to-bitbucket)
 
 
 Progress:
