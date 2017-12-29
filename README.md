@@ -4,12 +4,15 @@
 
 设置python编程环境：[安装Anaconda](https://docs.anaconda.com/anaconda/install/linux)
 
-启动Anaconda: $anaconda-navigator
+Linux Mint下启动Anaconda: $anaconda-navigator
+
+提交:
+git add -A
+git commit -a -m 'update information'
 
 
 
 
 Progress:
 - 2017-12-23 Sunday@Video: Operators and Branching
-
 
