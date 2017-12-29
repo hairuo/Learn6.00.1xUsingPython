@@ -11,6 +11,9 @@ git add -A
 git commit -a -m 'update information'
 
 push免输入密码:
+vim .git-credentials
+https://{username}:{password}@github.com
+
 git config --global credential.helper store
 
 
