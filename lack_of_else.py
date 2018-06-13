@@ -17,4 +17,3 @@ elif x < y:
 else:
     print("y is smaller")
 print("thanks!")
-print('test')
